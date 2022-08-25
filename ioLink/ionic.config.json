@@ -1,0 +1,7 @@
+{
+  "name": "ioLink",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
